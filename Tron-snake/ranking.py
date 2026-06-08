@@ -1,6 +1,6 @@
 # ranking.py
 import json
-RANK_FILE = "local_rank.json"
+RANK_FILE = "tron_rank.json"
 
 def add_rank(name, score):
     """Добавить очки в локальный рейтинг"""
